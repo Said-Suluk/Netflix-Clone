@@ -17,7 +17,7 @@ body {
 }
 
 .hero-image {
-    background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.8)), url(/img/arkaplan.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.8)), url(./img/arkaplan.jpg);
     height: 100vh;
     position: relative;
 }
